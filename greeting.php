@@ -1,4 +1,5 @@
 
+<?php
 define('LINE_API',"https://notify-api.line.me/api/notify");
  
 $token = "VF7JzcDNi92cMcy42JNuWxQgukegKw4b8MbeQzOL5V5"; //ใส่Token ที่copy เอาไว้
